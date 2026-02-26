@@ -63,12 +63,18 @@ Each exercise sheet is provided in:
 - Jupyter Notebook
 - Required libraries:
 
+
+```bash
 pip install nltk numpy pandas scikit-learn matplotlib
+```
+
 
 If needed, download NLTK resources:
 
+```python
 import nltk
 nltk.download('all')
+``` 
 
 ---
 
